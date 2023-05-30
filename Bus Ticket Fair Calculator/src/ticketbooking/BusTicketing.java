@@ -2,16 +2,7 @@ package ticketbooking;
 
 import javax.swing.JComponent;
 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
-/**
- *
- * @author janhavi
- */
 public class BusTicketing extends javax.swing.JFrame {
 
     /**
